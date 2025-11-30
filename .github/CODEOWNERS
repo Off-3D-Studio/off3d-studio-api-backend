@@ -1,0 +1,8 @@
+# ------------------------------------------------------------------------------
+# CODEOWNERS — Define responsáveis por revisões e aprovações no repositório
+# Cada padrão (path) abaixo determina quem é dono do código.
+# Os donos são automaticamente solicitados nos Pull Requests.
+# ------------------------------------------------------------------------------
+
+# 👑 Dono global do repositório (fallback)
+* @Amandapvln
